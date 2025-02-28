@@ -1,0 +1,9 @@
+[package]
+name = "coverletter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dialoguer ="0.9"
+printpdf = "0.3"
+textwrap = "0.14"
